@@ -1,0 +1,20 @@
+City: Tehran
+Average Price: 248000
+Cheapest Shop: Lion
+Total Price: 245000
+
+City: Tehran
+Average Price: 248000
+Cheapest Shop: Lion
+Total Price: 245000
+
+City: Tehran
+Average Price: 248000
+Cheapest Shop: Lion
+Total Price: 245000
+
+City: Zanjan
+Average Price: 248000
+Cheapest Shop: Meghdad
+Total Price: 245000
+
